@@ -1,0 +1,19 @@
+.container_landing{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+a{
+    width: 90%;
+}
+.gcb_companie{
+    width: 70%;
+    
+}
+
+.cerf{
+    width: 20%;
+}

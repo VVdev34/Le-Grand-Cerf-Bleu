@@ -1,0 +1,40 @@
+nav{
+    display: flex;
+    gap:5%;
+    padding: 2%;
+    position: sticky;
+    top: 0;
+    background-color: white;
+   
+}
+.logo {
+    width: 503px;
+    height: 130px;
+    cursor: pointer;
+    margin-top: 2%;
+  }
+  .ul-layout{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    list-style: none;
+    color: black;
+    gap: 120px;
+    font-size: 18px;
+    font-family: light;
+    margin-top: 8%;
+    text-transform: uppercase;
+}
+
+
+  
+
+  .links {
+    text-decoration: none;
+    color: black;
+  }
+  
+
+  .active-link {
+    color: #0000FE; 
+  }

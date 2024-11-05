@@ -1,0 +1,15 @@
+
+.imgContainer3 img{
+    width: 40vw;
+}
+
+.info{
+    text-transform: uppercase;
+    border-bottom: 1px solid ;
+    color: #0000FE;
+    padding: 2%;
+}
+.miseEnScene{
+    padding-top:2% ;
+    text-transform: uppercase;
+}

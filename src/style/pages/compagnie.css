@@ -1,0 +1,63 @@
+.description{
+    font-family: light;
+    color: #0000FE;
+    font-size: 54px;
+    margin-bottom: 60px;
+    margin-left: 2%;
+    line-height: 120%;
+    border: 0;
+
+}
+.texte{
+    width: 40%;
+    color: #0000FE;
+    margin-left: 2%;
+
+
+}
+.bioDesc{
+    margin-left: 3%;
+}
+article{
+    font-family: light;
+    font-size: 22px;
+    border-top: 1px solid #0000FE;
+}
+.desc{
+    font-family: light;
+    font-size: 32px;
+}
+.partenaires{
+    border-bottom: 1px solid #0000FE;
+}
+.biographie, .parcours, .partenaires{
+    cursor: pointer;
+}
+.images{
+    display: flex;
+    gap: 8%;
+}
+.img1, .img2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.img1 img, .img2 img{
+    width: 402px;
+    height: 507px;
+}
+.img1 span, .img2 span{
+    font-family: light;
+    font-size: 18px;
+    color: #0000FE;
+}
+.img1{
+    margin-top: 5%;
+}
+.img2{
+    margin-top: 50%;
+}
+.container{
+    display: flex;
+    gap: 5%;
+}

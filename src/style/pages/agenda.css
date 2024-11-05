@@ -1,0 +1,35 @@
+.spectacle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    margin-left: 5%;
+    
+}
+
+.date,.lieu,.nombreRep{
+    margin-top: -3%;
+}
+.descri, .representation{
+    font-size: 28px;
+    font-family: light;
+    color: #0000FE;
+}
+.titreS1{
+    color: white;
+    font-family: medium;
+    font-size: 70px;
+    background-image: url(../assets/gcb-19.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+
+}
+.titreS2{
+    color: white;
+    font-family: medium;
+    font-size: 70px;
+    background-image: url(../assets/gcb-19.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+
+}

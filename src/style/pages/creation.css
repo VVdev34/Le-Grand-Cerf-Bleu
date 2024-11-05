@@ -1,0 +1,45 @@
+.titres{
+    font-family: light;
+    font-size: 54px;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin-left: 1%;
+}
+.titres li {
+    margin: 0;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.titres li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+article{
+    font-family: light;
+    font-size: 22px;
+    border-top: 1px solid #0000FE;
+    color: #0000FE;
+}
+.description_creation, .distribution, .production{
+    cursor: pointer;
+}
+.textes{
+    width: 36%;
+    color: #0000FE;
+    margin-left: 2%;
+    margin-top: 5%;
+
+
+}
+.textes p{
+    margin-left: 3%;
+}
+.active-image{
+    width: 20%;
+}
+.active-item{
+    color: #0000FE;
+
+}

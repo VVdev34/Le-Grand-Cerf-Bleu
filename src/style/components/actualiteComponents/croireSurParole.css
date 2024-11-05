@@ -1,0 +1,45 @@
+.imgTitle1{
+    width: 649px;
+}
+.componentContainer{
+    display: flex;
+    margin-top: 5%;
+}
+.textContainer{
+    display: flex;
+    flex-direction: column;
+    font-family: light;
+    color: #0000FE;
+    width: 50%;
+}
+.textContainer h1{
+    text-transform: uppercase;
+    border-bottom: 1px solid ;
+    
+}
+.subTitle{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0;
+}
+.textContainer p{
+    margin: 0;
+}
+.miseEnScene{
+    padding-bottom: 2%;
+}
+.textContainer span{
+    font-weight: bold;
+}
+.textContainer .liste{
+    border-bottom: 1px solid;
+    padding-bottom: 2%;
+}
+.descriptionComponent{
+    padding-top: 2%;
+}
+
+.imgContainer1 img{
+    width: 45vw;
+   
+}

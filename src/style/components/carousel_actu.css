@@ -1,0 +1,16 @@
+
+.carousel-container{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.leftArrow, .rightArrow{
+  width: 73px;
+  height: 57px;
+  margin-top: 21%;
+}
+.carousel-slideActu{
+  width: 80%;
+  padding-left: 2%;
+  padding-right: 2%;
+} 

@@ -1,0 +1,47 @@
+.cont{
+    display: flex;
+}
+.SmCont{
+    display: flex;
+    gap: 4%;
+}
+.creationsEnCours{
+    cursor: pointer;
+}
+.texteCompanie{
+    width: 45%;
+    color: #0000FE;
+    margin-left: 2%;
+}
+.imgbi{
+    width: 45%;
+    height: 100vh;
+}
+span{
+    font-weight: bold;
+}
+
+.distribution, .production, .creationsEnCours{
+    cursor: pointer;
+}
+.distribution, .production{
+    text-transform: uppercase;
+}
+
+h1{
+    font-size: 24px;
+}
+
+.descriptionComponent{
+    font-size: 22px;
+}
+.miseEnScene{
+    font-size: 18px;
+}
+.subTitle{
+    font-size: 18px;
+}
+
+.textContainer{
+    font-size: 18px;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: light;
+    src: url(./fonts/oddval_light.otf);
+}
+@font-face {
+    font-family: medium;
+    src: url(./fonts/oddval_medium.otf);
+}
+@font-face {
+    font-family: regular;
+    src: url(./fonts/oddval_regular.otf);
+}
